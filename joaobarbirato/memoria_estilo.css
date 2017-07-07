@@ -1,0 +1,29 @@
+/* GERAL */
+html{
+	font-family: "Times New Roman", Times, serif;
+	background: "fundo.jpeg"
+}
+
+body{
+	color: white;
+	text-align: center;
+}
+
+/*memoria.html*/
+.title{
+	color: white;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.jogo{ /*botão*/
+	color: white;
+}
+
+/*ganhou.html*/
+.ganhou{ /*título*/
+	color: white;
+}
+
+.novamente{ /*botão*/
+	color: white;
+}
