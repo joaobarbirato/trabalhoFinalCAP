@@ -1,0 +1,53 @@
+.pagina{
+    position:absolute;
+    left:8%;
+    top:1%;
+}
+.botoes{
+  font-size: 30px;
+  text-align: center;
+  color: blue;
+  width: 35px;
+  height: 40px;
+  font-family: sans-serif;
+  background-color: Transparent;
+  border: none;
+}
+.palavra{
+  position: absolute;
+  top:27.5%;
+  left: 125%;
+  font-size: 30px;
+  text-align: center;
+  color: blue;
+  font-family: sans-serif;
+}
+.titulo{
+  left: 10%;
+  font-size: 80px;
+  text-align: center;
+  color: blue;
+  font-family: sans-serif;
+}
+.texto{
+  position: absolute;
+  top:27.5%;
+  left: 150%;
+  font-size: 30px;
+  text-align: center;
+  color: blue;
+  font-family: sans-serif;
+}
+.letra{
+  position: absolute;
+  top:27.5%;
+  left: 145%;
+  font-size: 30px;
+  text-align: center;
+  color: blue;
+  font-family: sans-serif;
+}
+td{
+  text-align: center;
+  width: 10px;
+}
