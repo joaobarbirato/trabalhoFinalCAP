@@ -372,7 +372,7 @@ void vetorStatus(int * v)
         fwrite(&v[2], sizeof(int), 1, arqTerceiro);
         fclose(arqTerceiro);
     }else if(arqTerceiro || arqEspelho){
-        if(arqTerceiro) // HORSENPOWDER
+        if(arqTerceiro) // HORSE
             fclose(arqTerceiro);
         else
             fclose(arqEspelho);
